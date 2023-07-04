@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.text-center {
+  text-align: center;
+  font-size: 56px;
+  margin-top: 13px;
+  margin-bottom: 12px;
+  color:rgba(233, 27, 27, 0.701)
+}
+
+.mx-auto {
+  margin: auto
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.item-center {
+  align-items: center;
+}
