@@ -1,0 +1,1 @@
+Dive into the projects of JavaScript with a very simple level that is building a calculator,So this is a calculator application where you can perform many applications and is created using just by HTML,CSS AND JavaScript.
